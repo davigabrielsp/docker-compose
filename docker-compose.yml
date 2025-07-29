@@ -2,7 +2,7 @@ version: "3.7"
 
 services:
     # image project
-    app:
+    app_laravel09x:
         build:
             context: .
             dockerfile: Dockerfile
